@@ -58,7 +58,7 @@ java_project/
 Enter input: example
 Output: result
 ```
-*(Update this with your real input/output sequence)*
+
 
 ---
 
@@ -67,8 +67,5 @@ Output: result
 - No external dependencies unless added explicitly.  
 - Code can be easily extended for future enhancements.  
 
----
 
-## 📜 License
-This project is released under the **MIT License** (or update the license if needed).
 ```
